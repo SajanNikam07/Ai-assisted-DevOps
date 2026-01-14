@@ -67,18 +67,10 @@ Your challenge is to **create a Bash script** that:
 
 
 # 🔗 Connect with Me Everywhere! 🌍
-📌 **LinkedIn**: Divya Satpute
+📌 **LinkedIn**: Sajan Nikam
 
-📌 **Instagram (DevOps Content)**: @teacode1122
+📌 **Instagram (DevOps Content)**: @tech_with_Sajan
 
-📌 **GitHub**: https://github.com/divyasatpute
-
-📌 **Hashnode (Technical Blogs)**: https://learnwithdivya.hashnode.dev/
-
-📌 **TeaCode Website**: https://teacode1122.vercel.app/
-
-📌**YouTube (Teacode - DevOps Learning)**: https://www.youtube.com/@Teacode-1122
-
-📌**Telegram (Teacode1122 - DevOps Learning)**: https://t.me/TeaCode1122_Cheet_Chat
+📌 **GitHub**: https://github.com/SajanNikam07
 
 💬 Let’s connect, collaborate, and grow together in the DevOps & Cloud world! 🚀✨
